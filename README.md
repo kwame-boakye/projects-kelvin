@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project on different recipes. For me, I made three different authentic Ghanaian dishes. If y'all don't know or haven't heard of Ghana, it is a beautiful country on the west coast of Africa- so much beautiful that it is nicknamed the garden city of Africa. Well, I hope y'all enjoy my recipes from Ghana.# odin-recipes
