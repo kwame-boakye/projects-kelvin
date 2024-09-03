@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2, h3 {
+    margin: 24px;
+    background-color: maroon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 79%;
+}
