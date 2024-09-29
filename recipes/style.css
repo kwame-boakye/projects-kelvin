@@ -1,12 +1,52 @@
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
 h1 {
     text-align: center;
     color: red;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
 }
 
 h2, h3 {
     margin: 24px;
     background-color: maroon;
+    color: white; /* Contrast color for text */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    opacity: 74%;
+    opacity: 0.8; /* Changed from 74% to 0.8 for clarity */
+    padding: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 12px 24px;
+}
+
+ul, ol {
+    margin: 16px 24px;
+    padding-left: 20px;
+}
+
+li {
+    margin: 4px 0;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
